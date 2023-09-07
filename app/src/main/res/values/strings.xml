@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Parametros</string>
+    <string name="etNombre"> Nombre: </string>
+    <string name="btnEnviar"> ENVIAR </string>
+    <string name="tvNombre"> Nombre </string>
+    <string name="btnRegresar"> REGRESAR </string>
+</resources>
